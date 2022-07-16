@@ -44,7 +44,7 @@
 
 #include <memory>
 
-#include "lwtnn/lightweight_network_config.hh"
+#include "lightweight_network_config.hh"
 
 namespace lwt {
 
